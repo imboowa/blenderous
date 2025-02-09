@@ -6,7 +6,7 @@ This is a delightful piece I learned from Blender Guru, a popular YouTube channe
 
 **Note**
 
-If you liked my settings or anything in the video from LinkedIn the settings can be gotten from the file compressed below in the files.
+If you liked my settings or anything in the video from LinkedIn, the settings can be gotten from the file compressed below in the files.
 
 **Thanks**
 
