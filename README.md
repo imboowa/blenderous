@@ -11,7 +11,7 @@ If you liked my settings or anything in the video from LinkedIn the settings can
 **Thanks**
 
 Thanks to the makers of this wonderful software, I wouldn't be here without this free software, really thank you the creators of Blender.
-Thanks to Blender Guru on YouTube for th ework put in making these tutorials for us to learn something new, really Blender Guru thnak you, spiritual teacher.
+Thanks to Blender Guru on YouTube for the work put in making these tutorials for us to learn something new, really Blender Guru thank you, spiritual teacher.
 
 
 **Author**
