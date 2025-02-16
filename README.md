@@ -7,6 +7,7 @@ This is a delightful piece I learned from Blender Guru, a popular YouTube channe
 **Note**
 
 If you liked my settings or anything in the video from LinkedIn, the settings can be gotten from the file compressed below in the files.
+You won't see the full animation though in the blender file because I render in bits in order to check for errors and faster production.
 
 **Thanks**
 
