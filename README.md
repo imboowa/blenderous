@@ -22,7 +22,7 @@ Thanks to Blender Guru on YouTube for the work put in making these tutorials for
 
 You can view my live website hosted on GitHub Pages here:
 
-[https://imboowa.github.io/](https://imboowa.github.io/)
+[https://imboowa.github.io/](https://imboowa.github.io/ImmanuelMboowa)
 
 ## Contact
 
